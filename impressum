@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Impressum</title>
+</head>
+<body>
+  <h1>Impressum</h1>
 
+  <p>
+    Angaben gemäß § 5 TMG
+  </p>
+
+  <p>
+    Marouan Tizan<br>
+    Straße Hausnummer<br>
+    PLZ Ort<br>
+  </p>
+
+  <p>
+    E-Mail: deine@email.de
+  </p>
+
+</body>
+</html>
