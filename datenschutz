@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Datenschutz</title>
+</head>
+<body>
+  <h1>Datenschutzerklärung</h1>
 
+  <p>
+    Diese Website verwendet Google Analytics, einen Webanalysedienst der Google Ireland Limited.
+  </p>
+
+  <p>
+    Google Analytics verwendet sogenannte „Cookies“. Die durch Cookies erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google übertragen und dort gespeichert.
+  </p>
+
+  <p>
+    Die Nutzung von Google Analytics erfolgt im Interesse einer Analyse des Nutzerverhaltens und zur Optimierung unseres Webangebots.
+  </p>
+
+</body>
+</html>
